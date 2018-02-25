@@ -17,7 +17,7 @@ Hemos basado nuestro diseño en un diseño de 12 columnas, el cual esta compleme
 
 ## Para pantalla de ordenador tendremos:
 
--Header:12 columnas
+-Header: 12 columnas
 
 -Navegacion: 12 columnas.
 
@@ -35,7 +35,7 @@ Hemos basado nuestro diseño en un diseño de 12 columnas, el cual esta compleme
 
 #### Para pantalla de tablet tendremos:
 
--Header:12 columnas
+-Header: 12 columnas
 
 -Navegacion: 12 columnas.
 
@@ -54,7 +54,7 @@ Hemos basado nuestro diseño en un diseño de 12 columnas, el cual esta compleme
 
 #### Para pantalla de movil tendremos:
 
--Header:12 columnas
+-Header: 12 columnas
 
 -Navegacion: 12 columnas.
 
