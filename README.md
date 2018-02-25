@@ -2,22 +2,35 @@
 
 En esta pagina hemos implementado un diseño responsive sobre nuestra pagina web.
 En la carpeta principal podemos encontrar:
--Una carpeta js: En la que encontramos un archivo jquery y un archivo propio llamado js.js
+
+-Una carpeta js: En la que encontramos un archivo jquery y un archivo propio llamado js.js.
+
 -Una carpeta Bootstrap: En ella tendremos todos los ficheros relacionado con bootstrap que necesitaremos.
+
 -Una carpeta imágenes: Se encontraran todas las imágenes utilizadas.
+
 -Una carpeta css: Con dos archivos, uno nuestro css.css y el css original de bootstrap.
+
 -Fichero index.html que hace referencia a nuestra pagina web.
 
 Hemos basado nuestro diseño en un diseño de 12 columnas, el cual esta complementado con, header, barra de navegación, botón de login y registro, buscador de viajes, un timeline de twitter, un carrusel, una galería en la que se subirán fotos y se podrá “like” o dejar comentarios, y un footer compuesto por los iconos de nuestras redes sociales y la distinción de la UE. Queda distribuido de la siguiente manera:
 
 ## Para pantalla de ordenador tendremos:
+
 -Header:12 columnas
+
 -Navegacion: 12 columnas.
+
 -Login/Registro: 12 columnas
+
 -Buscador 12 columnas.
+
 -Carrusel: 8 columnas.
+
 .Twitter: 3 columnas.
+
 -Galeria: 5 columnas.
+
 -Footer: 12 columas.
 
 #### Para pantalla de tablet tendremos:
