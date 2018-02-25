@@ -34,25 +34,43 @@ Hemos basado nuestro diseño en un diseño de 12 columnas, el cual esta compleme
 -Footer: 12 columas.
 
 #### Para pantalla de tablet tendremos:
+
 -Header:12 columnas
+
 -Navegacion: 12 columnas.
--Login/Registro: 12 columnas
+
+-Login/Registro: 12 columnas.
+
 -Buscador 12 columnas.
+
 -Carrusel: 8 columnas.
+
 .Twitter: 3 columnas.
+
 -Galeria: 5 columnas.
+
 -Footer: 12 columas:
 
+
 #### Para pantalla de movil tendremos:
+
 -Header:12 columnas
+
 -Navegacion: 12 columnas.
+
 -Login/Registro: 12 columnas
+
 -Buscador 12 columnas.
+
 -Carrusel: 12 columnas.
+
 .Twitter: desaparece.
+
 -Galeria: 12 columnas.
--Iconos redes sociales: 12 columas
--Footer: 12 columas:
+
+-Iconos redes sociales: 12 columas.
+
+-Footer: 12 columas.
 
 Si pinchamos en el botón de login introduciremos nuestras credenciales, y en registro nos mostrara un formulario de registro.
 
